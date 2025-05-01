@@ -71,7 +71,7 @@ min_delayはとりあえず0にしてあります．
 [Grove]:https://www.seeedstudio.io/category/Grove-c-1003.html
 [SeedStudio]:https://www.seeedstudio.io/
 [Adafruit]:https://www.adafruit.com/
-[ProductPage]:https://www.seeedstudio.com/Grove-Dust-Sensor-p-1050.html
+[ProductPage]:https://www.seeedstudio.com/Grove-PIR-Motion-Sensor.html
 [SeedWiki]:http://wiki.seeedstudio.com/Grove-3-Axis_Digital_Accelerometer-16g/
 [GitHub]:https://github.com/Seeed-Studio/PIR_Motion_Sensor
 [AdafruitGithub]:https://github.com/adafruit/Adafruit_ADXL345
